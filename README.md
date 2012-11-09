@@ -10,8 +10,10 @@ Currently there is no code and no research docs.
 Probably project will be GPL2/BSD Licensed, while some components might be forked/derived from other projects.
 
 Diagram:
- Squid -> Log daemon -> DB
- DB -> PHP -> GUI
+
+Squid -> Log daemon -> DB
+
+DB -> PHP -> GUI
 
 Possible target technologies:
 * Perl (Log daemon for Squid)
